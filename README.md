@@ -1,3 +1,5 @@
+## NOTE: I know the API key is public, but it is restricted to only be able to request from my IP.
+
 ### Overview
 The purpose of this project was to submit a data science project for **Xtern 2023**.  
 Using the **Google Maps Geocoding and Places API**, attractions / points of interest were found in Indianapolis, IN.  
