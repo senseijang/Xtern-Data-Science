@@ -11,5 +11,3 @@ This file also contains the analysis done on place ratings and types.
 * **mapData.csv**: this file is the data from the Google Maps APIs for use in analysis and extraction.
 * **Indianapolis-Map-Data.xlsx**: this file contains the table of data extracted from the Google Maps API
 * **Indianapolis-Day-Plan.xlsx**: this file contains the day plan assembled with the information given from the APIs.
-
-## NOTE: I know the API key is public, but it is restricted to only be able to request from my IP.
